@@ -32,7 +32,7 @@ export default {
 <style scoped>
 .content {
   padding: 1rem;
-  background: url("cover-bg.jpg");
+  background: url("/cover-bg.jpg");
   height: 100%;
   background-size: cover;
   background-position: center;
