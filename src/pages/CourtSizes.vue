@@ -7,13 +7,13 @@
     <h2 class="margin-top">Court scale</h2>
     <div class="courts" :style="{ '--fs': courtScale }">
       <img
-        src="court.svg"
+        src="/court.svg"
         alt="earth sized court"
         class="og-court"
         :style="ogVars"
       />
       <img
-        src="court.svg"
+        src="/court.svg"
         alt="planet sized court"
         class="new-court"
         :style="newVars"

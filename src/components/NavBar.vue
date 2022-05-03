@@ -6,7 +6,7 @@ export default {
 
 <template>
   <nav>
-    <img src="logo-white.svg" alt="IPBA logo" />
+    <img src="/logo-white.svg" alt="IPBA logo" />
   </nav>
 </template>
 

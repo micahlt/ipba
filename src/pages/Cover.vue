@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <img src="logo-white.svg" alt="logo" />
+    <img src="/logo-white.svg" alt="logo" />
     <h1>Interplanetary<br />Basketball<br />Association</h1>
     <p>Official Regulator's Handbook</p>
   </div>
